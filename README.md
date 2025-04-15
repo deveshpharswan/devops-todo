@@ -26,7 +26,7 @@ A simple Todo application built with **Express**, **MongoDB**, and **EJS**.
 ### Without Docker:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rohann-xd/todo-express.git
+   git clone https://github.com/deveshpharswan/devops-todo.git
    cd todo-express
    ```
 
